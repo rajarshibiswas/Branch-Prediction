@@ -19,12 +19,12 @@ Description:
  - Alternate prediction global counter 4bits.
  - Hence Total Sizeof the predictor = 506533 bits = 61.83 Kbytes < 62 KB
 
-Steps to Run:
-    1. Download the simulation kit from http://www.jilp.org/cbp2016/framework.html
-    2. Place the predictor.cc and predictor.h files under sim director.
-    3. Follow the instructions in the kit to make.
-    4. Run it on the traces.
+Steps to Run:</br>
+    1. Download the simulation kit from http://www.jilp.org/cbp2016/framework.html</br>
+    2. Place the predictor.cc and predictor.h files under sim director.</br>
+    3. Follow the instructions in the kit to make.</br>
+    4. Run it on the traces.</br>
 
-References:
-    1. http://www.jilp.org/vol7/v7paper10.pdf
-    2. http://www.jilp.org/vol9/v9paper6.pdf
+References:</br>
+    1. http://www.jilp.org/vol7/v7paper10.pdf</br>
+    2. http://www.jilp.org/vol9/v9paper6.pdf</br>
