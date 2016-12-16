@@ -3,12 +3,12 @@ Branch prediction competition project. Part of CSE 6421 OSU.
 
 Implementation of a slightly modified version of TAGE predictor.
 
-Description:
-    • Inspired from PPM like,TAG based and L-TAGE predictors.
-    • 1 base table.
-        • Total number of entries 2^13
-        • Uses 2 bits saturating counter for prediction
-        • Hence Size = 16384 bits.
+Description:<br/>
+    • Inspired from PPM like,TAG based and L-TAGE predictors.<br/>
+    • 1 base table.<br />
+        • Total number of entries 2^13 <br/>
+        • Uses 2 bits saturating counter for prediction<br />
+        • Hence Size = 16384 bits.<br />
     • 12 Tagged tables.
         • Total number of entries 2^11
         • Uses 3 bits counter for prediction, 15bits for tag (one table only uses 14 bits as tag), 2 bits for useful bits.
