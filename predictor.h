@@ -1,9 +1,6 @@
 #ifndef _PREDICTOR_H_
 #define _PREDICTOR_H_
 
-// Name: Rajarshi Biswas
-// The Ohio State University
-// CSE 6421
 // Modified TAGE predictor
 
 #include "utils.h"
