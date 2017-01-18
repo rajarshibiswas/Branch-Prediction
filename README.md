@@ -1,5 +1,5 @@
 # Branch-Prediction
-Branch prediction competition project. Part of CSE 6421 OSU.
+Branch prediction competition project.
 
 Implementation of a slightly modified version of TAGE predictor.
 
