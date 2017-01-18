@@ -1,6 +1,3 @@
-// Name: Rajarshi Biswas
-// The Ohio State University
-// CSE 6421
 // Modified TAGE predictor
 
 #include "predictor.h"
