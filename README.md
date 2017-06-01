@@ -1,7 +1,7 @@
 # Branch-Prediction
-Branch prediction competition project.
+Branch prediction competition project. 
 
-Implementation of a slightly modified version of TAGE predictor.
+Implementation of a modified TAGE branch predictor. This version achieved a AMEAN score of 3.41. 
 
 Description:
     
